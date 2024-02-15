@@ -6,11 +6,11 @@
     "type": "git",
     "url": "https://github.com/HatoGnss/rinex-viewer.git"
   },
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.86.0"
   },
-  "publisher": "hato.gnss",
+  "publisher": "hato-gnss",
   "categories": [
     "Other"
   ],
